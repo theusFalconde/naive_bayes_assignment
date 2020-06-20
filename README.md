@@ -30,7 +30,7 @@ algumas das seguintes funcionalidades:
 
 ---
 
-**Alterações realizadas**
+#Alterações realizadas
 
 Foi adicionado a biblioteca `nltk` para remover as stopwords
 
